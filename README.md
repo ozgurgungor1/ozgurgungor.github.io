@@ -2,4 +2,4 @@
 
 
 
-<h3>Çalışmalarıma bu adresten ulaşabilirsiniz <p>https://github.com/ozgurgungor1?tab=repositories</p> </h3>
+<h3>Çalışmalarıma github adresimden ulaşabilirsiniz <link>https://github.com/ozgurgungor1?tab=repositories</link> </h3>
