@@ -9,7 +9,7 @@
 <center><h1>WEB BLOG SİTEME HOŞGELDİNİZ</h1></center>
 
 <a href='https://github.com/ozgurgungor1?tab=repositories'> Çalışmalarıma github adresimden ulaşabilirsiniz. </a>
-  <br>
+  <br>  <br>
 <a href='https://www.linkedin.com/in/%C3%B6zg%C3%BCr-g%C3%BCng%C3%B6r/'>Linkedin adresime bu linkten ulaşabilirsiniz. </a>
 
 
