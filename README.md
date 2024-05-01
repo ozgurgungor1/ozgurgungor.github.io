@@ -16,9 +16,6 @@
 <a href='https://www.linkedin.com/in/%C3%B6zg%C3%BCr-g%C3%BCng%C3%B6r/'>Linkedin adresime bu linkten ulaşabilirsiniz. </a> 
 
 
-<i class="bi bi-arrow-right">deneme</i>
-
-
 
     
   </body>
