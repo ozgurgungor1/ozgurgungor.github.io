@@ -6,10 +6,9 @@
 
 
   
-<body bgcolor="black"> 
-
-
-<center><h1>WEB BLOG SİTEME HOŞGELDİNİZ</h1></center>
+<body> 
+  
+<center><h1 style="color:#FFFF00;">WEB BLOG SİTEME HOŞGELDİNİZ</h1></center>
 
  <a href='https://github.com/ozgurgungor1?tab=repositories'> Çalışmalarıma github adresimden ulaşabilirsiniz. </a>
 <br>
@@ -20,6 +19,3 @@
     
   </body>
 </html>
-
-
-
